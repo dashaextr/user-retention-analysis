@@ -1,5 +1,3 @@
-# user-retention-analysis
-Analysis of user onboarding funnel and retention metrics
 # User Retention & Funnel Analysis
 
 ## Overview
@@ -24,3 +22,9 @@ This project analyses user onboarding behaviour and retention to identify drop-o
 - Optimise onboarding steps to reduce friction
 - Improve early user engagement
 - Monitor retention metrics regularly
+
+## Skills Demonstrated
+- Funnel analysis
+- Retention analysis
+- User behaviour analysis
+- Data-driven decision making
